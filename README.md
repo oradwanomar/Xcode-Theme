@@ -4,5 +4,6 @@
 
 # How to use
  * Type this command into your terminal -> cd ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+ * Type open .
  * Drag and drop the file
 # Done 💜😁
